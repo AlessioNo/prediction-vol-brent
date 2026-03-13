@@ -108,8 +108,3 @@ source("forecast_final.R")
 > Il peut être lancé indépendamment de `script_final.R`.
 
 ---
-
-## Auteurs
-
-**Nocera Alessio & Brochud Corentin**
-Master Économétrie — 2025/2026
